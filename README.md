@@ -16,13 +16,13 @@
 
 ---
 
-## about me
+## About me
 
 CS & Mathematics student at Kenyatta University building full-stack web apps, mobile applications, smart contracts, and data science tools. I collaborate with blockchain ecosystems (KRNL, Avalanche, Base, HER DAO) and lead developer communities on campus.
 
 ---
 
-## tech stack
+## Tech stack
 
 **Frontend**
 
@@ -78,7 +78,7 @@ CS & Mathematics student at Kenyatta University building full-stack web apps, mo
 
 ---
 
-## featured projects
+## Featured projects
 
 > Full project details, screenshots & live demos → **[linet-mugwanja.vercel.app](https://linet-mugwanja.vercel.app/)**
 
@@ -91,7 +91,7 @@ CS & Mathematics student at Kenyatta University building full-stack web apps, mo
 
 ---
 
-## experience
+## Experience
 
 **Dukatech Solutions** — Software Engineering Intern *(Jan 2024 – Jan 2025)*
 - Led frontend development for a fintech app built with Flutter
@@ -110,7 +110,7 @@ CS & Mathematics student at Kenyatta University building full-stack web apps, mo
 
 ---
 
-## education
+## Education
 
 🎓 **B.Sc. Mathematics & Computer Science** — Kenyatta University *(Expected Dec 2026)*
 
